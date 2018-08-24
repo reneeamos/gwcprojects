@@ -1,0 +1,60 @@
+@font-face {
+    font-family: jadafont;
+    src: url("f'donkulous.ttf");
+}
+
+#h {
+  font-size: 48px;
+  padding-top: 0;
+
+}
+
+.header {
+    font-family: jadafont;
+    text-align: center;
+    padding: 0;
+    font-size: 58px;
+    color: black;
+}
+
+body {
+  background-image: url(https://ak3.picdn.net/shutterstock/videos/306103/thumb/10.jpg);
+
+
+}
+
+#c {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+#sku {
+  width: 85px;
+  height: 92px
+}
+
+.skull {
+        position: fixed;
+        bottom: 0;
+        width: 192%;
+    }
+
+    .skull img{
+        display: table;
+        position: relative;
+        margin: auto;
+   }
+
+   h2 {
+     font-size: 48px;
+     text-align: center;
+     font-family: jadafont;
+
+   }
+
+  .column {
+    width: 33%;
+  }
